@@ -1,0 +1,6 @@
+1.get post区别
+https://sunshinevvv.com/2017/02/09/HttpGETv.s.POST/
+2.this指向
+3.函数对象的apply,call方法区别
+4.闭包
+http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
