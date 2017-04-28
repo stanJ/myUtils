@@ -1,0 +1,61 @@
+1.贝尚智库
+生产环境 http://www.bj-shthinktank.com
+a&p superadmin 5tgb6yhn7ujm
+
+jkjy http://jkjy.3tichina.com:81/beishang/page/login.html
+a&p superadmin 5tgb6yhn7ujm
+
+测试 http://192.168.2.211:8080/beishang/page/login.html
+a&p superadmin 5tgb6yhn7ujm
+
+2.安锐盟（仅UI）
+测试 http://h5.3tichina.com/arm/page/_jc/demo.html
+
+3.牙典
+生产环境 
+网站 http://www.yahao.me/
+a&p 18801775779 123456
+
+后台管理系统 http://www.yahao.me/mis/index.html
+a&p 上海牙典口腔门诊部 ydadmin 123456
+
+show环境 
+网站 http://yadian.3tichina.com/web/index.html
+a&p 18516240460 123456
+
+后台管理系统 http://yadian.3tichina.com/mis/index.html
+a&p 上海牙典口腔门诊部 ydadmin 123456
+
+网站微信 http://yadian.3tichina.com/aiya/wechat
+a&p 18516240460 123456
+
+后台微信 http://yadian.3tichina.com/aiyamis/wechat
+a&p 上海牙典口腔门诊部 ydadmin 123456
+
+测试环境 
+网站 //test.3tichina.com:8023/
+a&p 18801775779 123456
+
+后台管理系统 http://test.3tichina.com:8023/clinicentrance.html
+a&p 上海景贤口腔门诊部 zsadmin0 123456
+
+4.健康星
+测试
+医生端 
+http://test.3tichina.com:8005/wechat/index.html
+a&p 13111111111 111111
+微信端
+http://test.3tichina.com:8005/wechat/login.html
+18801775779 123456
+
+正式
+医生端 
+http://app.star-ehealth.com:9029/jiankangxingIm/
+a&p 13111111111 111111 （待问）
+微信端
+http://app.star-ehealth.com:9029/wechat/login.html
+18801775779 123456 (待问)
+
+
+
+
